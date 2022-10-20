@@ -1,7 +1,18 @@
 body{
     text-align: center;
-    color: rebeccapurple;
     font-weight: bold;
     font-size: 2em;
     font-family: 'Courier New', Courier, monospace;
+}
+
+.container{
+    padding: 10px;
+}
+
+h2{
+    color: #333;
+}
+
+p{
+    font-size: medium;
 }
