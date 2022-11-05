@@ -9,6 +9,10 @@ body{
     padding: 10px;
 }
 
+.cabecera{
+    background-color: darkseagreen;
+}
+
 h2{
     color: #333;
 }
