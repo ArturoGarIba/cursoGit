@@ -2,4 +2,6 @@ Archivo de prueba curso Git v3
 
 Nuevo cambio
 
+Cambio realizado por ArturoJRPruebas
+
 Cambio 2 de prueba
