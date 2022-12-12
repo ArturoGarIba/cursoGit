@@ -9,6 +9,11 @@ body{
     padding: 10px;
 }
 
+#footer{
+    background-color: gray;
+    color: white;
+}
+
 .cabecera{
     background-color: darkseagreen;
 }
