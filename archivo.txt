@@ -6,5 +6,6 @@ Cambio realizado por ArturoJRPruebas 1.0
 
 Cambio 2 de prueba
 
-cambio para aprender rebase
+cambio de main 1
 
+cambio de main 2
