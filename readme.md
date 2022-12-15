@@ -4,3 +4,5 @@ En este curso he visto de todo y he aprendido mucho.
 >This is me when I was in college studying computer systems engineering
 ![](https://snipboard.io/J4IZaP.jpg)
     
+
+asi que todo este progreso lo hice siendo autodidacta
