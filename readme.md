@@ -5,7 +5,5 @@ En este curso he visto de todo y he aprendido mucho.
 ![](https://snipboard.io/J4IZaP.jpg)
     
 
-<<<<<<< HEAD
-=======
+
 commit 1
->>>>>>> 5104ed4 (stash 1)
